@@ -1,0 +1,46 @@
+name: Publish to Instagram
+
+on:
+  schedule:
+    - cron: "30 13 * * *"   # every day 13:30 UTC = 19:00 IST (GitHub may start it a few minutes late)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (show what would happen, publish nothing)"
+        type: boolean
+        default: true
+
+concurrency:
+  group: instagram-publisher
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Publish due posts and answer comments
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
+            python publish.py --dry-run
+          else
+            python publish.py
+          fi
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "h2ai-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/state.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Update publish state [skip ci]" && git push)
