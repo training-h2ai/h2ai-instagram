@@ -80,6 +80,10 @@
   "answer": "✅ Answer: A) 0 3 6 9\nrange(start, stop, step): starts at 0 and jumps by 3 → 0, 3, 6, 9. (12 would pass the stop of 10.)"
  },
  {
+  "match": "Print 1 to 1000 in just 2 lines? 🔁 Python loops, explained in 40 seconds",
+  "answer": "✅ Answer: A) 0 3 6 9\nrange(start, stop, step): starts at 0 and jumps by 3 → 0, 3, 6, 9. (12 would pass the stop of 10.)\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python functions for beginners: stop copy-pasting, start reusing 🧩",
   "answer": "✅ Answer: B) None\nThere's no return statement, so the function returns None. The result of x * 2 is thrown away.\nHow many of you got it right? 🙌"
  },

@@ -6,7 +6,7 @@
   "type": "REELS",
   "video": "media/t10/reel.mp4",
   "cover": "media/t10/reel_cover.jpg",
-  "caption": "Python quiz: Loops 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 10/26, \"Loops (for, while)\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#pythonloops #forloop #python #learnpython #pythonquiz"
+  "caption": "Print 1 to 1000 in just 2 lines? 🔁 Python loops, explained in 40 seconds\n\nfor = you know HOW MANY times\nwhile = keep going WHILE something is true\n\n🧠 Quiz at the end: what does range(0, 10, 3) print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 10/26 \"Loops (for, while)\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythonloops #forloop #python #learnpython #pythonquiz"
  },
  {
   "key": "2026-12-15-t10-carousel",
