@@ -1,5 +1,18 @@
 [
  {
+  "key": "2026-11-14-wc01",
+  "date": "2026-11-14",
+  "time": "19:00",
+  "type": "CAROUSEL",
+  "images": [
+   "media/wc01/slide1.jpg",
+   "media/wc01/slide2.jpg",
+   "media/wc01/slide3.jpg",
+   "media/wc01/slide4.jpg"
+  ],
+  "caption": "🧩 Weekend Challenge #1: can you build this intro card with only print()?\n\nBased on Topic 01: What is Programming? 🐍\n\n🎯 Your task: print the intro card on slide 2, using your own name.\n🌟 Bonus: print a star triangle.\n\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab for a new topic every week + a challenge every weekend\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #100daysofcode #codenewbie #learntocode #h2aicodelab"
+ },
+ {
   "key": "2026-12-14-t10-reel",
   "date": "2026-12-14",
   "time": "19:00",

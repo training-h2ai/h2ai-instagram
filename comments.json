@@ -210,5 +210,9 @@
  {
   "match": "Python quiz: Git & GitHub 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: B) git commit\ngit add stages changes, git commit saves the snapshot, git push uploads it to GitHub."
+ },
+ {
+  "match": "🧩 Weekend Challenge #1: can you build this intro card with only print()?",
+  "answer": "✅ One way to solve it: one print() per line!\n\nprint(\"*****...*****\")\nprint(\"*  Hi, I'm Asha  *\")\n...\n\nBonus triangle: print(\"*\"), print(\"**\"), print(\"***\"), print(\"****\") 🌟\nWho finished it? Show us your card 👇"
  }
 ]
