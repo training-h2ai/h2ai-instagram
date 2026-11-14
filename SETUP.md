@@ -38,8 +38,12 @@ You do steps 1–6 once (about 30–45 minutes). Claude does the upload part (st
 1. In the repo: **Settings → Secrets and variables → Actions → New repository secret**.
 2. Name: **`IG_ACCESS_TOKEN`**. Value: paste the token. **Add secret**.
 
-## 6. Let the token renew itself (so it never expires)
-Instagram tokens last 60 days. A weekly workflow renews it, but it needs permission to save the new one:
+## 6. Let the token renew itself (only for tokens that expire)
+**Skip this step if your token starts with `EAA`.** That's a never-expiring system-user token, created via
+"API setup with Unified login" → *Create new configuration* (System-user access token, Expiration: Never),
+which is what @h2ai.codelab uses. The refresh workflow detects it and does nothing.
+
+Only for `IGAA…` tokens, which last 60 days: a weekly workflow renews the token, but it needs permission to save the new one:
 1. Go to **https://github.com/settings/personal-access-tokens/new**.
 2. Name `h2ai token refresher`, Expiration **1 year** (or the longest offered), Repository access **Only select repositories → h2ai-instagram**.
 3. Permissions → Repository permissions → **Secrets: Read and write**. **Generate token** and copy it.
@@ -47,8 +51,9 @@ Instagram tokens last 60 days. A weekly workflow renews it, but it needs permiss
 
 ## 7. Test it
 1. Repo → **Actions** tab. If asked, click **"I understand my workflows, go ahead and enable them"**.
-2. **Publish to Instagram → Run workflow** (leave *Dry run* ticked) → green tick = media files and schedule are fine.
-3. **Refresh Instagram token → Run workflow** → green tick = token and GH_PAT work.
+2. **Publish to Instagram → Run workflow**, mode **check** → it logs in with the token and lists recent posts, **publishing nothing**. Green tick and "Token works" in the log = ready.
+3. (Optional) mode **dry-run** shows what today's run would publish.
+4. Never pick mode **publish** by hand unless you want today's post to go out right now. The daily schedule does that automatically.
 
 Done. From here it runs on its own. GitHub emails you if a run ever fails.
 
