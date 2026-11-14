@@ -18,7 +18,10 @@ Local test without touching Instagram:
 import argparse, datetime as dt, json, os, pathlib, sys, time, urllib.error, urllib.parse, urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent
-API = "https://graph.instagram.com/" + os.environ.get("IG_API_VERSION", "v25.0")
+API_VERSION = os.environ.get("IG_API_VERSION", "v25.0")
+# Instagram-login tokens (IGAA...) use graph.instagram.com; Facebook / Business-login
+# tokens (EAA..., including never-expiring system-user tokens) use graph.facebook.com.
+IG_USER_ID = os.environ.get("IG_USER_ID") or "17841452650254696"  # @h2ai.codelab (not secret)
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 CATCH_UP_DAYS = 3
 COMMENT_AFTER_HOURS = 20
@@ -32,11 +35,13 @@ def log(*a):
 class IG:
     def __init__(self, token):
         self.token = token
+        host = "graph.facebook.com" if token.startswith("EAA") else "graph.instagram.com"
+        self.api = f"https://{host}/{API_VERSION}"
 
     def call(self, method, path, **params):
         params["access_token"] = self.token
         data = urllib.parse.urlencode(params).encode()
-        url = f"{API}/{path}"
+        url = f"{self.api}/{path}"
         if method == "GET":
             req = urllib.request.Request(url + "?" + data.decode())
         else:
@@ -144,9 +149,13 @@ def main():
         log("ERROR: IG_ACCESS_TOKEN secret is not set.")
         return 1
     ig = IG(token)
-    me = ig.call("GET", "me", fields="user_id,username")
-    user_id = me.get("user_id") or me["id"]
-    log(f"Logged in as @{me.get('username')} ({user_id})")
+    if token.startswith("EAA"):
+        user_id = IG_USER_ID
+        me = ig.call("GET", user_id, fields="username")
+    else:
+        me = ig.call("GET", "me", fields="user_id,username")
+        user_id = me.get("user_id") or me["id"]
+    log(f"Logged in as @{me.get('username')} ({user_id}) via {ig.api.split('/')[2]}")
 
     recent = ig.call("GET", f"{user_id}/media", fields="id,caption,timestamp", limit=50).get("data", [])
     live_by_line = {first_line(m.get("caption")): m for m in recent}
