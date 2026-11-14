@@ -114,6 +114,8 @@ def publish_post(ig, user_id, post, base):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--check", action="store_true",
+                    help="log in with the token and list recent posts; publish/comment nothing")
     ap.add_argument("--today", help="pretend today is YYYY-MM-DD (IST)")
     args = ap.parse_args()
 
@@ -159,6 +161,17 @@ def main():
 
     recent = ig.call("GET", f"{user_id}/media", fields="id,caption,timestamp", limit=50).get("data", [])
     live_by_line = {first_line(m.get("caption")): m for m in recent}
+
+    if args.check:
+        log(f"Token works. {len(recent)} recent posts visible:")
+        for m in recent[:10]:
+            log(f"  {m['timestamp'][:16]}  {first_line(m.get('caption'))[:70]}")
+        answers = {c["match"] for c in comments}
+        log(f"Posts that will get an answer comment once 20h old: "
+            f"{sum(first_line(m.get('caption')) in answers for m in recent)}")
+        nxt = next((p for p in posts if p['key'] not in state['published']), None)
+        log(f"Next post to publish: {nxt['key'] if nxt else 'none'}. CHECK MODE: nothing was published.")
+        return 0
 
     failures = 0
     for p in due:

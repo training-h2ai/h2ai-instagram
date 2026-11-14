@@ -5,10 +5,11 @@ on:
     - cron: "30 13 * * *"   # every day 13:30 UTC = 19:00 IST (GitHub may start it a few minutes late)
   workflow_dispatch:
     inputs:
-      dry_run:
-        description: "Dry run (show what would happen, publish nothing)"
-        type: boolean
-        default: true
+      mode:
+        description: "check = test the token (posts nothing) · dry-run = show today's plan · publish = real run"
+        type: choice
+        options: [check, dry-run, publish]
+        default: check
 
 concurrency:
   group: instagram-publisher
@@ -30,12 +31,13 @@ jobs:
       - name: Publish due posts and answer comments
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'publish' }}
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
-            python publish.py --dry-run
-          else
-            python publish.py
-          fi
+          case "$MODE" in
+            check)   python publish.py --check ;;
+            dry-run) python publish.py --dry-run ;;
+            *)       python publish.py ;;
+          esac
 
       - name: Save state
         if: always()
