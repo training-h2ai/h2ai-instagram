@@ -92,6 +92,10 @@
   "answer": "✅ Answer: B) None\nThere's no return statement, so the function returns None. The result of x * 2 is thrown away."
  },
  {
+  "match": "Stop copy-pasting your code 🧩 Functions, explained in under a minute",
+  "answer": "✅ Answer: B) None\nThere's no return statement, so the function returns None. The result of x * 2 is thrown away.\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python lambda functions: a whole function in one line ⚡",
   "answer": "✅ Answer: B) 12\nThe lambda is defined and called right away with a=3, b=4 → 3 * 4 = 12\nHow many of you got it right? 🙌"
  },
@@ -214,5 +218,53 @@
  {
   "match": "🧩 Weekend Challenge #1: can you build this intro card with only print()?",
   "answer": "✅ One way to solve it: one print() per line!\n\nprint(\"*****...*****\")\nprint(\"*  Hi, I'm Asha  *\")\n...\n\nBonus triangle: print(\"*\"), print(\"**\"), print(\"***\"), print(\"****\") 🌟\nWho finished it? Show us your card 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #2: Run your first real script 🐍",
+  "answer": "✅ One way to solve Challenge #2:\n\nprint(\"Hello, World! 👋\")\nprint(\"I'm Asha and I just installed Python.\")\nprint(\"My goal: build an AI project this year 🚀\")\n\nOutput:\nHello, World! 👋\nI'm Asha and I just installed Python.\nMy goal: build an AI project this year 🚀\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #3: Build a profile card with variables",
+  "answer": "✅ One way to solve Challenge #3:\n\nname = \"Asha\"\nage = 21\nheight = 5.4\nis_student = True\nprint(\"Name:\", name, type(name))\nprint(\"Age:\", age, type(age))\nprint(\"Height:\", height, type(height))\nprint(\"Student:\", is_student, type(is_student))\n\nOutput:\nName: Asha <class 'str'>\nAge: 21 <class 'int'>\nHeight: 5.4 <class 'float'>\nStudent: True <class 'bool'>\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #4: How many days old are you? 🎂",
+  "answer": "✅ One way to solve Challenge #4:\n\nname = input(\"Your name: \")\nage = int(input(\"Your age: \"))\nprint(f\"Hi {name}! You are about {age * 365} days old 🎂\")\n\nOutput:\nYour name: Asha\nYour age: 21\nHi Asha! You are about 7665 days old 🎂\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #5: Build a grade calculator 🎓",
+  "answer": "✅ One way to solve Challenge #5:\n\nmarks = 78\nif marks >= 90:\n    grade = \"A\"\nelif marks >= 75:\n    grade = \"B\"\nelif marks >= 50:\n    grade = \"C\"\nelse:\n    grade = \"Keep practising\"\nprint(f\"Marks: {marks} → Grade {grade}\")\n\nOutput:\nMarks: 78 → Grade B\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #6: Crack the classic FizzBuzz 🧠",
+  "answer": "✅ One way to solve Challenge #6:\n\ndef fizzbuzz(n):\n    for i in range(1, n + 1):\n        if i % 15 == 0:\n            print(\"FizzBuzz\", end=\" \")\n        elif i % 3 == 0:\n            print(\"Fizz\", end=\" \")\n        elif i % 5 == 0:\n            print(\"Buzz\", end=\" \")\n        else:\n            print(i, end=\" \")\n\nfizzbuzz(15)\n\nOutput:\n1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #7: Sort with lambda, count down with recursion",
+  "answer": "✅ One way to solve Challenge #7:\n\nnames = [\"Lakshmi\", \"Mia\", \"Arjun\", \"Ravi\"]\nprint(sorted(names, key=lambda n: len(n)))\n\ndef countdown(n):\n    if n == 0:\n        print(\"Go!\")\n        return\n    print(n, end=\" \")\n    countdown(n - 1)\n\ncountdown(3)\n\nOutput:\n['Mia', 'Ravi', 'Arjun', 'Lakshmi']\n3 2 1 Go!\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #8: Analyse a sentence in 5 lines 🔤",
+  "answer": "✅ One way to solve Challenge #8:\n\nsentence = \"python is fun and easy\"\nwords = sentence.split()\nprint(\"Words:\", len(words))\nprint(\"Longest:\", max(words, key=len))\nprint(\"Title:\", sentence.title())\nprint(\"Reversed:\", words[::-1])\n\nOutput:\nWords: 5\nLongest: python\nTitle: Python Is Fun And Easy\nReversed: ['easy', 'and', 'fun', 'is', 'python']\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #9: Count unique visitors 🎯",
+  "answer": "✅ One way to solve Challenge #9:\n\nvisits = [\"Asha\", \"Ravi\", \"Asha\", \"Mia\", \"Ravi\", \"Asha\"]\nunique = set(visits)\nprint(\"Unique visitors:\", len(unique))\nprint(\"Sorted:\", sorted(unique))\ntop = (\"Asha\", visits.count(\"Asha\"))\nprint(\"Top visitor:\", top)\n\nOutput:\nUnique visitors: 3\nSorted: ['Asha', 'Mia', 'Ravi']\nTop visitor: ('Asha', 3)\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #10: Build a word counter with a dict 📖",
+  "answer": "✅ One way to solve Challenge #10:\n\ntext = \"to be or not to be\"\ncounts = {}\nfor w in text.split():\n    counts[w] = counts.get(w, 0) + 1\nprint(counts)\nrepeated = {w: c for w, c in counts.items() if c > 1}\nprint(repeated)\n\nOutput:\n{'to': 2, 'be': 2, 'or': 1, 'not': 1}\n{'to': 2, 'be': 2}\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #11: Code a bank account class 🏦",
+  "answer": "✅ One way to solve Challenge #11:\n\nclass BankAccount:\n    def __init__(self, owner, balance=0):\n        self.owner = owner\n        self.balance = balance\n\n    def deposit(self, amount):\n        self.balance += amount\n\n    def withdraw(self, amount):\n        if amount > self.balance:\n            print(\"Not enough money!\")\n        else:\n            self.balance -= amount\n\nacc = BankAccount(\"Asha\", 100)\nacc.deposit(50)\nacc.withdraw(500)\nacc.withdraw(30)\nprint(acc.owner, acc.balance)\n\nOutput:\nNot enough money!\nAsha 120\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #12: Build a crash-proof calculator 🛡️",
+  "answer": "✅ One way to solve Challenge #12:\n\nimport math\n\ndef safe_divide(a, b):\n    try:\n        return a / b\n    except ZeroDivisionError:\n        return \"Can't divide by zero!\"\n\nprint(safe_divide(10, 4))\nprint(safe_divide(5, 0))\nprint(math.sqrt(safe_divide(32, 2)))\n\nOutput:\n2.5\nCan't divide by zero!\n4.0\n\nDid yours work? Show us 👇"
+ },
+ {
+  "match": "🧩 Weekend Challenge #13: Set up a real project like a pro 🧰",
+  "answer": "✅ One way to solve Challenge #13:\n\n# in the terminal\npython -m venv venv\nvenv\\Scripts\\activate      # Mac/Linux: source venv/bin/activate\npip install emoji\n\n# main.py\nimport emoji\nprint(emoji.emojize(\"Python is :fire:\"))\n\nOutput:\nPython is 🔥\n\nDid yours work? Show us 👇"
  }
 ]
