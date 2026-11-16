@@ -13,6 +13,15 @@
   "caption": "🧩 Weekend Challenge #1: can you build this intro card with only print()?\n\nBased on Topic 01: What is Programming? 🐍\n\n🎯 Your task: print the intro card on slide 2, using your own name.\n🌟 Bonus: print a star triangle.\n\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab for a new topic every week + a challenge every weekend\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #100daysofcode #codenewbie #learntocode #h2aicodelab"
  },
  {
+  "key": "2026-11-16-t02-reel",
+  "date": "2026-11-16",
+  "time": "19:00",
+  "type": "REELS",
+  "video": "media/t02/reel.mp4",
+  "cover": "media/t02/reel_cover.jpg",
+  "caption": "1 line in Python. 5 lines in Java. 🐍 What is Python?, explained in under a minute\n\n🐍 Python reads like plain English\n1️⃣ Java: 5 lines 😩\n2️⃣ Python: 1 line 😎\n\n🧠 Quiz at the end: Who created Python?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 02/26 \"What is Python?\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#whatispython #pythonlanguage #python #learnpython #pythonquiz"
+ },
+ {
   "key": "2026-11-21-wc02",
   "date": "2026-11-21",
   "time": "19:00",
@@ -147,7 +156,7 @@
   "type": "REELS",
   "video": "media/t11/reel.mp4",
   "cover": "media/t11/reel_cover.jpg",
-  "caption": "Python quiz: Functions 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 11/26, \"Functions\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#pythonfunctions #functions #python #learnpython #pythonquiz"
+  "caption": "Stop copy-pasting your code 🧩 Functions, explained in under a minute\n\n🧩 A function is a recipe\n1️⃣ def = create a function\n2️⃣ return = hand back a result\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 11/26 \"Functions\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythonfunctions #functions #python #learnpython #pythonquiz"
  },
  {
   "key": "2026-12-18-t11-carousel",
@@ -197,7 +206,7 @@
   "type": "REELS",
   "video": "media/t12/reel.mp4",
   "cover": "media/t12/reel_cover.jpg",
-  "caption": "Python quiz: Lambda Functions 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 12/26, \"Lambda Functions\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#lambda #pythontricks #python #learnpython #pythonquiz"
+  "caption": "A whole function in one line ⚡ ⚡ Lambda Functions, explained in under a minute\n\n⚡ A lambda is a sticky note\n1️⃣ lambda args : expression\n2️⃣ Perfect with sorted()\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 12/26 \"Lambda Functions\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#lambda #pythontricks #python #learnpython #pythonquiz"
  },
  {
   "key": "2026-12-22-t12-carousel",
@@ -221,7 +230,7 @@
   "type": "REELS",
   "video": "media/t13/reel.mp4",
   "cover": "media/t13/reel_cover.jpg",
-  "caption": "Python quiz: Recursion 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 13/26, \"Recursion\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#recursion #pythonfunctions #python #learnpython #pythonquiz"
+  "caption": "A function that calls itself 🤯 🪆 Recursion, explained in under a minute\n\n🪆 Like Russian dolls\n1️⃣ Base case = when to STOP\n2️⃣ Classic: factorial\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 13/26 \"Recursion\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#recursion #pythonfunctions #python #learnpython #pythonquiz"
  },
  {
   "key": "2026-12-25-t13-carousel",
@@ -271,7 +280,7 @@
   "type": "REELS",
   "video": "media/t14/reel.mp4",
   "cover": "media/t14/reel_cover.jpg",
-  "caption": "Python quiz: Strings 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 14/26, \"Strings\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#pythonstrings #strings #python #learnpython #pythonquiz"
+  "caption": "Reverse any text with just [::-1] 🔤 Strings, explained in under a minute\n\n🔤 A string is a bead necklace\n1️⃣ Index & slice\n2️⃣ Handy methods\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 14/26 \"Strings\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythonstrings #strings #python #learnpython #pythonquiz"
  },
  {
   "key": "2026-12-29-t14-carousel",
@@ -295,7 +304,7 @@
   "type": "REELS",
   "video": "media/t15/reel.mp4",
   "cover": "media/t15/reel_cover.jpg",
-  "caption": "Python quiz: Lists 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 15/26, \"Lists\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#pythonlists #lists #python #learnpython #pythonquiz"
+  "caption": "The list bug that catches many beginners 📋 Lists, explained in under a minute\n\n📋 A list is a shopping list\n1️⃣ Create & access\n2️⃣ Add & remove\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 15/26 \"Lists\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythonlists #lists #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-01-01-t15-carousel",
@@ -345,7 +354,7 @@
   "type": "REELS",
   "video": "media/t16/reel.mp4",
   "cover": "media/t16/reel_cover.jpg",
-  "caption": "Python quiz: Tuples 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 16/26, \"Tuples\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#pythontuples #tuples #python #learnpython #pythonquiz"
+  "caption": "Swap 2 variables in one line 🔒 Tuples, explained in under a minute\n\n🔒 A tuple is a locked box\n1️⃣ Round brackets ( )\n2️⃣ Unpack & swap\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 16/26 \"Tuples\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythontuples #tuples #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-01-05-t16-carousel",
@@ -369,7 +378,7 @@
   "type": "REELS",
   "video": "media/t17/reel.mp4",
   "cover": "media/t17/reel_cover.jpg",
-  "caption": "Python quiz: Sets 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 17/26, \"Sets\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#pythonsets #sets #python #learnpython #pythonquiz"
+  "caption": "Remove duplicates in one step 🎯 🎯 Sets, explained in under a minute\n\n🎯 A set is a guest list\n1️⃣ Duplicates vanish\n2️⃣ Find common items\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 17/26 \"Sets\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythonsets #sets #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-01-08-t17-carousel",
@@ -419,7 +428,7 @@
   "type": "REELS",
   "video": "media/t18/reel.mp4",
   "cover": "media/t18/reel_cover.jpg",
-  "caption": "Python quiz: Dictionaries 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 18/26, \"Dictionaries\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#pythondictionary #dictionaries #python #learnpython #pythonquiz"
+  "caption": "The structure behind JSON & APIs 📖 Dictionaries, explained in under a minute\n\n📖 A dict is a real dictionary\n1️⃣ key → value\n2️⃣ Add & update\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 18/26 \"Dictionaries\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythondictionary #dictionaries #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-01-12-t18-carousel",
@@ -443,7 +452,7 @@
   "type": "REELS",
   "video": "media/t19/reel.mp4",
   "cover": "media/t19/reel_cover.jpg",
-  "caption": "Python quiz: List & Dict Comprehensions 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 19/26, \"List & Dict Comprehensions\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#listcomprehension #pythontricks #python #learnpython #pythonquiz"
+  "caption": "Turn 3 lines of code into 1 🪄 🪄 List & Dict Comprehensions, explained in under a minute\n\n🪄 A factory line for lists\n1️⃣ [ expression for item in … ]\n2️⃣ Add an if filter\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 19/26 \"List & Dict Comprehensions\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#listcomprehension #pythontricks #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-01-15-t19-carousel",
@@ -493,7 +502,7 @@
   "type": "REELS",
   "video": "media/t20/reel.mp4",
   "cover": "media/t20/reel_cover.jpg",
-  "caption": "Python quiz: Object-Oriented Programming 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 20/26, \"Object-Oriented Programming\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#oop #pythonclasses #python #learnpython #pythonquiz"
+  "caption": "Classes & objects, finally simple 🏗️ Object-Oriented Programming, explained in under a minute\n\n🏗️ Class = blueprint, object = house\n1️⃣ class + __init__\n2️⃣ Many objects, one class\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 20/26 \"Object-Oriented Programming\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#oop #pythonclasses #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-01-19-t20-carousel",
@@ -517,7 +526,7 @@
   "type": "REELS",
   "video": "media/t21/reel.mp4",
   "cover": "media/t21/reel_cover.jpg",
-  "caption": "Python quiz: File Handling 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 21/26, \"File Handling\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#filehandling #pythonfiles #python #learnpython #pythonquiz"
+  "caption": "Your variables vanish. Files don't. 📁 File Handling, explained in under a minute\n\n📁 A file is your notebook\n1️⃣ write with mode \"w\"\n2️⃣ read it back\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 21/26 \"File Handling\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#filehandling #pythonfiles #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-01-22-t21-carousel",
@@ -567,7 +576,7 @@
   "type": "REELS",
   "video": "media/t22/reel.mp4",
   "cover": "media/t22/reel_cover.jpg",
-  "caption": "Python quiz: Exception Handling 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 22/26, \"Exception Handling\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#exceptionhandling #pythonerrors #python #learnpython #pythonquiz"
+  "caption": "Stop one bad input from crashing your app 🛡️ Exception Handling, explained in under a minute\n\n🛡️ try / except is a safety net\n1️⃣ The crash 💥\n2️⃣ try / except\n\n🧠 Quiz at the end: what does the code print?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 22/26 \"Exception Handling\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#exceptionhandling #pythonerrors #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-01-26-t22-carousel",
@@ -591,7 +600,7 @@
   "type": "REELS",
   "video": "media/t23/reel.mp4",
   "cover": "media/t23/reel_cover.jpg",
-  "caption": "Python quiz: Modules & Packages 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 23/26, \"Modules & Packages\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#pythonmodules #pythonlibraries #python #learnpython #pythonquiz"
+  "caption": "Why write it when you can import it? 🧱 Modules & Packages, explained in under a minute\n\n🧱 Modules are a toolbox\n1️⃣ import math\n2️⃣ from random import choice\n\n🧠 Quiz at the end: Which lets you call sqrt(9) directly?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 23/26 \"Modules & Packages\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythonmodules #pythonlibraries #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-01-29-t23-carousel",
@@ -641,7 +650,7 @@
   "type": "REELS",
   "video": "media/t24/reel.mp4",
   "cover": "media/t24/reel_cover.jpg",
-  "caption": "Python quiz: Virtual Environments 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 24/26, \"Virtual Environments\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#virtualenv #pythonvenv #python #learnpython #pythonquiz"
+  "caption": "\"It works on my machine\" ends today 🫧 Virtual Environments, explained in under a minute\n\n🫧 A venv is a separate suitcase\n1️⃣ Create & activate\n2️⃣ Install inside it\n\n🧠 Quiz at the end: Which command creates a virtual environment?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 24/26 \"Virtual Environments\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#virtualenv #pythonvenv #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-02-02-t24-carousel",
@@ -665,7 +674,7 @@
   "type": "REELS",
   "video": "media/t25/reel.mp4",
   "cover": "media/t25/reel_cover.jpg",
-  "caption": "Python quiz: pip Package Manager 🧠 Can you get it in 3 seconds?\n\nComment your answer: A, B, C or D 👇\nNo running the code first 😉\n\n📚 Full lesson: Topic 25/26, \"pip Package Manager\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n#pip #pypi #python #learnpython #pythonquiz"
+  "caption": "500,000+ libraries, one command away 📥 pip Package Manager, explained in under a minute\n\n📥 pip is an app store for Python\n1️⃣ pip install\n2️⃣ Use it right away\n\n🧠 Quiz at the end: What does pip stand for?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 25/26 \"pip Package Manager\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pip #pypi #python #learnpython #pythonquiz"
  },
  {
   "key": "2027-02-05-t25-carousel",

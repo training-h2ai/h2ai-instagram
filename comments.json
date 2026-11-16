@@ -16,12 +16,20 @@
   "answer": "✅ Answer: B) Guido van Rossum\nGuido van Rossum released Python in 1991. Fun fact: it's named after the comedy show Monty Python, not the snake! 🐍"
  },
  {
+  "match": "1 line in Python. 5 lines in Java. 🐍 What is Python?, explained in under a minute",
+  "answer": "✅ Answer: B) Guido van Rossum\nGuido van Rossum released Python in 1991. Fun fact: it's named after the comedy show Monty Python, not the snake! 🐍\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "How to install Python & VS Code (and the one checkbox beginners miss) 🛠️",
   "answer": "✅ Answer: B) .py\nPython files end in .py, like hello.py or main.py\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: Installing Python & VS Code 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: B) .py\nPython files end in .py, like hello.py or main.py"
+ },
+ {
+  "match": "The #1 mistake when installing Python 🛠️ Installing Python & VS Code, explained in under a minute",
+  "answer": "✅ Answer: B) .py\nPython files end in .py, like hello.py or main.py\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python variables explained for beginners: the first thing every coder learns 📦",
@@ -32,12 +40,20 @@
   "answer": "✅ Answer: B) 16\nx = 5 → x = 5 + 3 = 8 → x = 8 * 2 = 16. Python always uses the latest value."
  },
  {
+  "match": "The first line of every Python program 📦 Variables, explained in under a minute",
+  "answer": "✅ Answer: B) 16\nx = 5 → x = 5 + 3 = 8 → x = 8 * 2 = 16. Python always uses the latest value.\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python data types: why 7 and 7.0 aren't the same thing 👀",
   "answer": "✅ Answer: B) <class 'str'>\nAnything in quotes is a string, even if it looks like a number.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: Data Types 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: B) <class 'str'>\nAnything in quotes is a string, even if it looks like a number."
+ },
+ {
+  "match": "7 and 7.0 are not the same 👀 🧬 Data Types, explained in under a minute",
+  "answer": "✅ Answer: B) <class 'str'>\nAnything in quotes is a string, even if it looks like a number.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python input() and print(): make your programs talk back 💬 (plus f-strings)",
@@ -48,12 +64,20 @@
   "answer": "✅ Answer: B) <class 'str'>\ninput() ALWAYS returns a string, even when you type a number. We fix this in the next topic: Type Casting!"
  },
  {
+  "match": "This one function makes your code interactive 💬 Input & Output, explained in under a minute",
+  "answer": "✅ Answer: B) <class 'str'>\ninput() ALWAYS returns a string, even when you type a number. We fix this in the next topic: Type Casting!\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python type casting: why 5 + 3 = 53, and the one-line fix 🤯",
   "answer": "✅ Answer: B) 7\nint() cuts off the decimal part. It does NOT round. Use round(7.9) to get 8.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: Type Casting 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: B) 7\nint() cuts off the decimal part. It does NOT round. Use round(7.9) to get 8."
+ },
+ {
+  "match": "Why does Python say 5 + 3 = 53? 🔄 Type Casting, explained in under a minute",
+  "answer": "✅ Answer: B) 7\nint() cuts off the decimal part. It does NOT round. Use round(7.9) to get 8.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python operators: can you solve 2 + 3 * 4 ** 2 without a calculator? 🧮",
@@ -64,12 +88,20 @@
   "answer": "✅ Answer: A) 50\nPrecedence: ** first, then *, then +. 4**2 = 16 → 3*16 = 48 → 2+48 = 50"
  },
  {
+  "match": "Can you solve 2 + 3 × 4² in your head? ➗ Operators, explained in under a minute",
+  "answer": "✅ Answer: A) 50\nPrecedence: ** first, then *, then +. 4**2 = 16 → 3*16 = 48 → 2+48 = 50\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python if / elif / else explained: how code makes decisions 🚦",
   "answer": "✅ Answer: A) A\nOnly the FIRST true branch runs. x > 5 is also true, but Python never checks it.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: Conditional Statements 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: A) A\nOnly the FIRST true branch runs. x > 5 is also true, but Python never checks it."
+ },
+ {
+  "match": "3 words behind every decision your app makes 🚦 Conditional Statements, explained in under a minute",
+  "answer": "✅ Answer: A) A\nOnly the FIRST true branch runs. x > 5 is also true, but Python never checks it.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python for & while loops: print 1 to 1000 in just 2 lines 🔁",
@@ -104,12 +136,20 @@
   "answer": "✅ Answer: B) 12\nThe lambda is defined and called right away with a=3, b=4 → 3 * 4 = 12"
  },
  {
+  "match": "A whole function in one line ⚡ ⚡ Lambda Functions, explained in under a minute",
+  "answer": "✅ Answer: B) 12\nThe lambda is defined and called right away with a=3, b=4 → 3 * 4 = 12\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python recursion explained simply: a function that calls itself 🪆",
   "answer": "✅ Answer: B) 10\nf(4) = 4 + 3 + 2 + 1 + 0 = 10\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: Recursion 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: B) 10\nf(4) = 4 + 3 + 2 + 1 + 0 = 10"
+ },
+ {
+  "match": "A function that calls itself 🤯 🪆 Recursion, explained in under a minute",
+  "answer": "✅ Answer: B) 10\nf(4) = 4 + 3 + 2 + 1 + 0 = 10\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python strings: slicing, methods, and reversing text with [::-1] 🔤",
@@ -120,12 +160,20 @@
   "answer": "✅ Answer: C) 3\nb-A-n-A-n-A → \"a\" appears 3 times."
  },
  {
+  "match": "Reverse any text with just [::-1] 🔤 Strings, explained in under a minute",
+  "answer": "✅ Answer: C) 3\nb-A-n-A-n-A → \"a\" appears 3 times.\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python lists: the copy bug that catches many beginners 📋",
   "answer": "✅ Answer: B) [1, 2, 3, 4]\nb = a doesn't copy the list. Both names point to the SAME list. Use b = a.copy() for a real copy.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: Lists 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: B) [1, 2, 3, 4]\nb = a doesn't copy the list. Both names point to the SAME list. Use b = a.copy() for a real copy."
+ },
+ {
+  "match": "The list bug that catches many beginners 📋 Lists, explained in under a minute",
+  "answer": "✅ Answer: B) [1, 2, 3, 4]\nb = a doesn't copy the list. Both names point to the SAME list. Use b = a.copy() for a real copy.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python tuples: swap two variables in one line 🔒",
@@ -136,12 +184,20 @@
   "answer": "✅ Answer: B) <class 'int'>\n(5) is just the number 5 in brackets. A one-item tuple needs a comma: (5,)"
  },
  {
+  "match": "Swap 2 variables in one line 🔒 Tuples, explained in under a minute",
+  "answer": "✅ Answer: B) <class 'int'>\n(5) is just the number 5 in brackets. A one-item tuple needs a comma: (5,)\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python sets: remove duplicates from a list in one step 🎯",
   "answer": "✅ Answer: B) 2\nThe second 1 is a duplicate, but \"1\" is a string, a different value. So the set holds 1 and \"1\" → 2.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: Sets 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: B) 2\nThe second 1 is a duplicate, but \"1\" is a string, a different value. So the set holds 1 and \"1\" → 2."
+ },
+ {
+  "match": "Remove duplicates in one step 🎯 🎯 Sets, explained in under a minute",
+  "answer": "✅ Answer: B) 2\nThe second 1 is a duplicate, but \"1\" is a string, a different value. So the set holds 1 and \"1\" → 2.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python dictionaries: the key → value structure behind JSON and APIs 📖",
@@ -152,12 +208,20 @@
   "answer": "✅ Answer: B) {'a': 3, 'b': 2}\nKeys must be unique. The later \"a\": 3 overwrites the earlier \"a\": 1, and keeps its original position."
  },
  {
+  "match": "The structure behind JSON & APIs 📖 Dictionaries, explained in under a minute",
+  "answer": "✅ Answer: B) {'a': 3, 'b': 2}\nKeys must be unique. The later \"a\": 3 overwrites the earlier \"a\": 1, and keeps its original position.\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python list comprehensions: turn 3 lines of code into 1 🪄",
   "answer": "✅ Answer: A) ['aa', 'bb']\nLooping over a string gives each character. \"a\" * 2 = \"aa\", \"b\" * 2 = \"bb\".\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: List & Dict Comprehensions 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: A) ['aa', 'bb']\nLooping over a string gives each character. \"a\" * 2 = \"aa\", \"b\" * 2 = \"bb\"."
+ },
+ {
+  "match": "Turn 3 lines of code into 1 🪄 🪄 List & Dict Comprehensions, explained in under a minute",
+  "answer": "✅ Answer: A) ['aa', 'bb']\nLooping over a string gives each character. \"a\" * 2 = \"aa\", \"b\" * 2 = \"bb\".\nHow many of you got it right? 🙌"
  },
  {
   "match": "Object-Oriented Programming in Python, finally explained in plain English 🏗️",
@@ -168,12 +232,20 @@
   "answer": "✅ Answer: B) 1\na.x = 5 creates a new attribute on object a only. b still reads the class value, 1."
  },
  {
+  "match": "Classes & objects, finally simple 🏗️ Object-Oriented Programming, explained in under a minute",
+  "answer": "✅ Answer: B) 1\na.x = 5 creates a new attribute on object a only. b still reads the class value, 1.\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python file handling: save data that survives after your program ends 📁",
   "answer": "✅ Answer: B) \"Bye\"\n\"w\" mode wipes the file before writing. Use \"a\" (append) to keep the old content.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: File Handling 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: B) \"Bye\"\n\"w\" mode wipes the file before writing. Use \"a\" (append) to keep the old content."
+ },
+ {
+  "match": "Your variables vanish. Files don't. 📁 File Handling, explained in under a minute",
+  "answer": "✅ Answer: B) \"Bye\"\n\"w\" mode wipes the file before writing. Use \"a\" (append) to keep the old content.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python try / except: stop one bad input from crashing your app 🛡️",
@@ -184,12 +256,20 @@
   "answer": "✅ Answer: C) A then B\n1 / 0 raises ZeroDivisionError → except prints A → finally ALWAYS runs and prints B."
  },
  {
+  "match": "Stop one bad input from crashing your app 🛡️ Exception Handling, explained in under a minute",
+  "answer": "✅ Answer: C) A then B\n1 / 0 raises ZeroDivisionError → except prints A → finally ALWAYS runs and prints B.\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Python modules & packages: why write it when you can import it? 🧱",
   "answer": "✅ Answer: B) from math import sqrt\nfrom math import sqrt brings sqrt itself into your file. With import math you'd write math.sqrt(9).\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: Modules & Packages 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: B) from math import sqrt\nfrom math import sqrt brings sqrt itself into your file. With import math you'd write math.sqrt(9)."
+ },
+ {
+  "match": "Why write it when you can import it? 🧱 Modules & Packages, explained in under a minute",
+  "answer": "✅ Answer: B) from math import sqrt\nfrom math import sqrt brings sqrt itself into your file. With import math you'd write math.sqrt(9).\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python virtual environments: end \"it works on my machine\" for good 🫧",
@@ -200,6 +280,10 @@
   "answer": "✅ Answer: B) python -m venv venv\npython -m venv venv runs the built-in venv module and creates a folder called venv."
  },
  {
+  "match": "\"It works on my machine\" ends today 🫧 Virtual Environments, explained in under a minute",
+  "answer": "✅ Answer: B) python -m venv venv\npython -m venv venv runs the built-in venv module and creates a folder called venv.\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "pip for beginners: install any Python library in seconds 📥",
   "answer": "✅ Answer: B) Pip Installs Packages\npip is a recursive acronym: \"Pip Installs Packages\" 😄\nHow many of you got it right? 🙌"
  },
@@ -208,12 +292,20 @@
   "answer": "✅ Answer: B) Pip Installs Packages\npip is a recursive acronym: \"Pip Installs Packages\" 😄"
  },
  {
+  "match": "500,000+ libraries, one command away 📥 pip Package Manager, explained in under a minute",
+  "answer": "✅ Answer: B) Pip Installs Packages\npip is a recursive acronym: \"Pip Installs Packages\" 😄\nHow many of you got it right? 🙌"
+ },
+ {
   "match": "Git & GitHub for beginners: your GitHub is your new resume 🌳",
   "answer": "✅ Answer: B) git commit\ngit add stages changes, git commit saves the snapshot, git push uploads it to GitHub.\nHow many of you got it right? 🙌"
  },
  {
   "match": "Python quiz: Git & GitHub 🧠 Can you get it in 3 seconds?",
   "answer": "✅ Answer: B) git commit\ngit add stages changes, git commit saves the snapshot, git push uploads it to GitHub."
+ },
+ {
+  "match": "Your GitHub is your new resume 🌳 Git & GitHub, explained in under a minute",
+  "answer": "✅ Answer: B) git commit\ngit add stages changes, git commit saves the snapshot, git push uploads it to GitHub.\nHow many of you got it right? 🙌"
  },
  {
   "match": "🧩 Weekend Challenge #1: can you build this intro card with only print()?",
