@@ -31,30 +31,31 @@
   "caption": "The #1 mistake when installing Python 🛠️ Installing Python & VS Code, explained in under a minute\n\n🛠️ PATH is Python's home address\n1️⃣ Tick Add python.exe to PATH ☑️\n2️⃣ Run it in VS Code ▶️\n\n🧠 Quiz at the end: Which file extension do Python files use?\nComment A, B, C or D 👇 (answer tomorrow!)\n\n📚 Full lesson: Topic 03/26 \"Installing Python & VS Code\" is on our profile as a carousel.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#vscode #pythonsetup #python #learnpython #pythonquiz"
  },
  {
+  "key": "2026-11-20-t03-reel2",
+  "date": "2026-11-20",
+  "time": "19:00",
+  "type": "REELS",
+  "video": "media/t03/reel2.mp4",
+  "cover": "media/t03/reel2_cover.jpg",
+  "caption": "Your first program in 30 seconds ▶️ Installing Python & VS Code, part 2\n\n1️⃣ Create hello.py → Run ▷\n2️⃣ ⚠️ Forgot the quotes?\n\n✍️ Your turn: Install both, run this, and share a screenshot of your output!\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#vscode #pythonsetup #python #learnpython #pythontips"
+ },
+ {
   "key": "2026-11-21-wc02",
   "date": "2026-11-21",
   "time": "19:00",
-  "type": "CAROUSEL",
-  "images": [
-   "media/wc02/slide1.jpg",
-   "media/wc02/slide2.jpg",
-   "media/wc02/slide3.jpg",
-   "media/wc02/slide4.jpg"
-  ],
-  "caption": "🧩 Weekend Challenge #2: Run your first real script 🐍\n\nBased on this week's lessons: Topic 02 What is Python? + Topic 03 Installing Python & VS Code 🐍\n\n🎯 Your task is on slide 2. Hints + a bonus on slide 3.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
+  "type": "REELS",
+  "video": "media/wc02/reel.mp4",
+  "cover": "media/wc02/reel_cover.jpg",
+  "caption": "🧩 Weekend Challenge #2: Run your first real script 🐍\n\nBased on this week's lessons: Topic 02 What is Python? + Topic 03 Installing Python & VS Code 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
  },
  {
   "key": "2026-11-22-wr01",
   "date": "2026-11-22",
   "time": "19:00",
-  "type": "CAROUSEL",
-  "images": [
-   "media/wr01/slide1.jpg",
-   "media/wr01/slide2.jpg",
-   "media/wr01/slide3.jpg",
-   "media/wr01/slide4.jpg"
-  ],
-  "caption": "📝 Week 1 recap: What is Python? + Installing Python & VS Code, in 60 seconds\n\nMissed a post this week? Swipe for:\n➡️ 🐍 Topic 02 What is Python?: the key ideas\n➡️ 🛠️ Topic 03 Installing Python & VS Code: the key ideas\n➡️ ✅ This week's quiz answers\n\n📌 Save this to revise later\n💬 Which quiz did you get right? Tell us 👇\n➕ Follow @h2ai.codelab: a new topic every week\n\n#pythonrecap #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
+  "type": "REELS",
+  "video": "media/wr01/reel.mp4",
+  "cover": "media/wr01/reel_cover.jpg",
+  "caption": "📝 Week 1 recap: What is Python? + Installing Python & VS Code, in 60 seconds\n\nMissed a post this week? Watch for:\n➡️ 🐍 Topic 02 What is Python?: the key ideas\n➡️ 🛠️ Topic 03 Installing Python & VS Code: the key ideas\n➡️ ✅ This week's quiz answers\n\n📌 Save this to revise later\n💬 Which quiz did you get right? Tell us 👇\n➕ Follow @h2ai.codelab: a new topic every week\n\n🎙️ AI voiceover\n\n#pythonrecap #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
  },
  {
   "key": "2026-11-23-t04-reel",
