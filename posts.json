@@ -67,15 +67,6 @@
   "caption": "6 steps from zero to AI-ready 🚀 Save this roadmap!\n\n01 Python essentials for AI\n02 Data with Python (NumPy, pandas)\n03 SQL\n04 Power BI dashboards\n05 AI with Python (LLMs, chatbots, RAG)\n06 AI agents + capstone project\n\n🚀 Our full Python to AI course starts in December: live classes + recordings, doubt support and real portfolio projects.\n\n👉 Step 0: our FREE Python workshop on Sun, 29 Nov · 8 AM IST · Google Meet. Tap the Register link in our bio!\n🔁 Share this with a friend who wants to get into AI\n\n#python #ai #learnpython #artificialintelligence #dataanalytics #sql #powerbi #machinelearning #airoadmap #h2aicodelab"
  },
  {
-  "key": "2026-11-21-wc02",
-  "date": "2026-11-21",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc02/reel.mp4",
-  "cover": "media/wc02/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #2: Run your first real script 🐍\n\nBased on this week's lessons: Topic 02 What is Python? + Topic 03 Installing Python & VS Code 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
- },
- {
   "key": "2026-11-22-wr01",
   "date": "2026-11-22",
   "time": "19:00",
@@ -148,15 +139,6 @@
   "caption": "The type that means nothing 📭 Data Types, part 2\n\n1️⃣ bool: True or False\n2️⃣ None = no value yet\n\n✍️ Your turn: Create one variable of each type and print its type().\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythondatatypes #datatypes #python #learnpython #pythontips"
  },
  {
-  "key": "2026-11-28-wc03",
-  "date": "2026-11-28",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc03/reel.mp4",
-  "cover": "media/wc03/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #3: Build a profile card with variables\n\nBased on this week's lessons: Topic 04 Variables + Topic 05 Data Types 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
- },
- {
   "key": "2026-11-29-wr02",
   "date": "2026-11-29",
   "time": "19:00",
@@ -200,15 +182,6 @@
   "video": "media/t07/reel2.mp4",
   "cover": "media/t07/reel2_cover.jpg",
   "caption": "Turn any type into another 🔄 Type Casting, part 2\n\n1️⃣ str() and float()\n2️⃣ ⚠️ int() drops decimals\n\n✍️ Your turn: Build a mini calculator: take 2 numbers and print their sum, difference and product.\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#typecasting #pythontips #python #learnpython #pythontips"
- },
- {
-  "key": "2026-12-05-wc04",
-  "date": "2026-12-05",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc04/reel.mp4",
-  "cover": "media/wc04/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #4: How many days old are you? 🎂\n\nBased on this week's lessons: Topic 06 Input & Output + Topic 07 Type Casting 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
  },
  {
   "key": "2026-12-06-wr03",
@@ -256,15 +229,6 @@
   "caption": "One space can break your code 📏 Conditional Statements, part 2\n\n1️⃣ Indent with 4 spaces\n2️⃣ ⚠️ No indent = error\n\n✍️ Your turn: Write a program that tells if a number is positive, negative or zero.\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#ifelse #pythonconditions #python #learnpython #pythontips"
  },
  {
-  "key": "2026-12-12-wc05",
-  "date": "2026-12-12",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc05/reel.mp4",
-  "cover": "media/wc05/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #5: Build a grade calculator 🎓\n\nBased on this week's lessons: Topic 08 Operators + Topic 09 Conditional Statements 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
- },
- {
   "key": "2026-12-13-wr04",
   "date": "2026-12-13",
   "time": "19:00",
@@ -308,15 +272,6 @@
   "video": "media/t11/reel2.mp4",
   "cover": "media/t11/reel2_cover.jpg",
   "caption": "Give functions default values 🎯 Functions, part 2\n\n1️⃣ Default parameters\n2️⃣ ⚠️ Forgot return?\n\n✍️ Your turn: Write a function is_even(n) that returns True or False.\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythonfunctions #functions #python #learnpython #pythontips"
- },
- {
-  "key": "2026-12-19-wc06",
-  "date": "2026-12-19",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc06/reel.mp4",
-  "cover": "media/wc06/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #6: Crack the classic FizzBuzz 🧠\n\nBased on this week's lessons: Topic 10 Loops (for, while) + Topic 11 Functions 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
  },
  {
   "key": "2026-12-20-wr05",
@@ -364,15 +319,6 @@
   "caption": "The recursion mistake that crashes Python ♾️ Recursion, part 2\n\n1️⃣ Sum with recursion\n2️⃣ ⚠️ No base case = crash\n\n✍️ Your turn: Write a recursive function that sums the digits of a number (123 → 6).\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#recursion #pythonfunctions #python #learnpython #pythontips"
  },
  {
-  "key": "2026-12-26-wc07",
-  "date": "2026-12-26",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc07/reel.mp4",
-  "cover": "media/wc07/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #7: Sort with lambda, count down with recursion\n\nBased on this week's lessons: Topic 12 Lambda Functions + Topic 13 Recursion 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
- },
- {
   "key": "2026-12-27-wr06",
   "date": "2026-12-27",
   "time": "19:00",
@@ -416,15 +362,6 @@
   "video": "media/t15/reel2.mp4",
   "cover": "media/t15/reel2_cover.jpg",
   "caption": "The list bug that catches many beginners 🐛 Lists, part 2\n\n1️⃣ ⚠️ b = a is NOT a copy\n2️⃣ Use .copy() ✅\n\n✍️ Your turn: Make a list of 5 marks and print the average.\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythonlists #lists #python #learnpython #pythontips"
- },
- {
-  "key": "2027-01-02-wc08",
-  "date": "2027-01-02",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc08/reel.mp4",
-  "cover": "media/wc08/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #8: Analyse a sentence in 5 lines 🔤\n\nBased on this week's lessons: Topic 14 Strings + Topic 15 Lists 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
  },
  {
   "key": "2027-01-03-wr07",
@@ -472,15 +409,6 @@
   "caption": "Compare two lists like a pro 🔗 Sets, part 2\n\n1️⃣ | union · - difference\n2️⃣ ⚠️ Sets have no order\n\n✍️ Your turn: Find the common friends between two friend lists using sets.\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythonsets #sets #python #learnpython #pythontips"
  },
  {
-  "key": "2027-01-09-wc09",
-  "date": "2027-01-09",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc09/reel.mp4",
-  "cover": "media/wc09/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #9: Count unique visitors 🎯\n\nBased on this week's lessons: Topic 16 Tuples + Topic 17 Sets 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
- },
- {
   "key": "2027-01-10-wr08",
   "date": "2027-01-10",
   "time": "19:00",
@@ -524,15 +452,6 @@
   "video": "media/t19/reel2.mp4",
   "cover": "media/t19/reel2_cover.jpg",
   "caption": "Build a dictionary in one line 📖 List & Dict Comprehensions, part 2\n\n1️⃣ { key: value for … }\n2️⃣ Choose with if / else\n\n✍️ Your turn: In ONE line, make a list of the squares of all odd numbers from 1 to 20.\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#listcomprehension #pythontricks #python #learnpython #pythontips"
- },
- {
-  "key": "2027-01-16-wc10",
-  "date": "2027-01-16",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc10/reel.mp4",
-  "cover": "media/wc10/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #10: Build a word counter with a dict 📖\n\nBased on this week's lessons: Topic 18 Dictionaries + Topic 19 List & Dict Comprehensions 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
  },
  {
   "key": "2027-01-17-wr09",
@@ -580,15 +499,6 @@
   "caption": "The file mode that deletes your data 📂 File Handling, part 2\n\n1️⃣ ⚠️ \"w\" erases first\n2️⃣ \"a\" appends ✅\n\n✍️ Your turn: Write 3 of your goals to goals.txt, then read and print them.\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#filehandling #pythonfiles #python #learnpython #pythontips"
  },
  {
-  "key": "2027-01-23-wc11",
-  "date": "2027-01-23",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc11/reel.mp4",
-  "cover": "media/wc11/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #11: Code a bank account class 🏦\n\nBased on this week's lessons: Topic 20 Object-Oriented Programming + Topic 21 File Handling 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
- },
- {
   "key": "2027-01-24-wr10",
   "date": "2027-01-24",
   "time": "19:00",
@@ -634,15 +544,6 @@
   "caption": "Make your own Python module 📦 Modules & Packages, part 2\n\n1️⃣ Any .py file is a module\n2️⃣ import it anywhere\n\n✍️ Your turn: Use the random module to build a dice roller 🎲\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pythonmodules #pythonlibraries #python #learnpython #pythontips"
  },
  {
-  "key": "2027-01-30-wc12",
-  "date": "2027-01-30",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc12/reel.mp4",
-  "cover": "media/wc12/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #12: Build a crash-proof calculator 🛡️\n\nBased on this week's lessons: Topic 22 Exception Handling + Topic 23 Modules & Packages 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
- },
- {
   "key": "2027-01-31-wr11",
   "date": "2027-01-31",
   "time": "19:00",
@@ -686,15 +587,6 @@
   "video": "media/t25/reel2.mp4",
   "cover": "media/t25/reel2_cover.jpg",
   "caption": "Manage your libraries like a pro 🔎 pip Package Manager, part 2\n\n1️⃣ pip list & pip show\n2️⃣ Install an exact version\n\n✍️ Your turn: Install the emoji package and print an emoji with it.\nComment your code 👇\n\n🎬 Part 1 is on our profile.\n➕ Follow @h2ai.codelab to learn Python step by step → AI/ML\n\n🎙️ AI voiceover\n\n#pip #pypi #python #learnpython #pythontips"
- },
- {
-  "key": "2027-02-06-wc13",
-  "date": "2027-02-06",
-  "time": "19:00",
-  "type": "REELS",
-  "video": "media/wc13/reel.mp4",
-  "cover": "media/wc13/reel_cover.jpg",
-  "caption": "🧩 Weekend Challenge #13: Set up a real project like a pro 🧰\n\nBased on this week's lessons: Topic 24 Virtual Environments + Topic 25 pip Package Manager 🐍\n\n🎯 Pause the video to read the task. Hints + a bonus at the end.\n👇 Paste your code (or a screenshot) in the comments. We'll post a solution tomorrow!\n🔁 Tag a friend who's learning Python\n➕ Follow @h2ai.codelab: a new topic every week + a challenge every weekend\n\n🎙️ AI voiceover\n\n#pythonchallenge #codingchallenge #python #learnpython #pythonforbeginners #pythonprogramming #codenewbie #100daysofcode #learntocode #coding #h2aicodelab"
  },
  {
   "key": "2027-02-07-wr12",
