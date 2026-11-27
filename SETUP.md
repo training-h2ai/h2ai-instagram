@@ -1,7 +1,7 @@
 # H2AI Instagram auto-publisher: one-time setup
 
-This repository publishes @h2ai.codelab's remaining posts (Topics 10–26, Reels and
-carousels) **from GitHub's servers**, every day at 19:00 IST, with your laptop off.
+This repository publishes @h2ai.codelab's scheduled posts (Reels and carousels)
+**from GitHub's servers**, every day at 19:00 IST, with your laptop off.
 It also adds the quiz-answer comment about 24 hours after each post.
 
 You do steps 1–6 once (about 30–45 minutes). Claude does the upload part (step 2).
@@ -60,7 +60,7 @@ Done. From here it runs on its own. GitHub emails you if a run ever fails.
 ---
 
 ### How it works
-- `posts.json`: the 34 remaining posts (date, caption, media). Times are 19:00 IST.
+- `posts.json`: the post schedule (date, caption, media). Times are 19:00 IST.
 - `comments.json`: the quiz answers. They're posted on any matching post (including ones scheduled in Business Suite) 20+ hours after it goes live.
 - `publish.py`: runs daily. It publishes today's post (or catches up to 3 days late) and never duplicates a post that's already on the account.
 - `state/state.json`: what has been published and commented. The workflow updates it.
